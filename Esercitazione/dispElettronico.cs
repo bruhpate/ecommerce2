@@ -8,7 +8,7 @@ namespace Esercitazione
 {
     public class DispElettronico : prodotto
     {
-        private bool _lunedì = false;
+        private bool _lunedì = true;
         private string _modello;
         private int _sconto;
         public string Modello { get { return _modello; } set { _modello = value; }}
@@ -18,9 +18,9 @@ namespace Esercitazione
             {
                 if (_lunedì)
                 {
-                    return this.Prezzo / 100 * 95;
+                    return base.Prezzo / 100 * 95;
                 }
-                return this.Prezzo;
+                return base.Prezzo;
             }
         }
         public int Sconto
