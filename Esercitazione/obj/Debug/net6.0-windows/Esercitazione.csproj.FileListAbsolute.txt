@@ -1,0 +1,17 @@
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\bin\Debug\net6.0-windows\Esercitazione.exe
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\bin\Debug\net6.0-windows\Esercitazione.deps.json
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\bin\Debug\net6.0-windows\Esercitazione.runtimeconfig.json
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\bin\Debug\net6.0-windows\Esercitazione.dll
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\bin\Debug\net6.0-windows\Esercitazione.pdb
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.csproj.AssemblyReference.cache
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.Form1.resources
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.csproj.GenerateResource.cache
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.AssemblyInfoInputs.cache
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.AssemblyInfo.cs
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.dll
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\refint\Esercitazione.dll
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.pdb
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\Esercitazione.genruntimeconfig.cache
+C:\Users\patelli.19326\Desktop\E-Commerce-master\E-Commerce-master\Esercitazione\obj\Debug\net6.0-windows\ref\Esercitazione.dll
